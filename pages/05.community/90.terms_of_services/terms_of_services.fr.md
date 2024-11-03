@@ -85,7 +85,7 @@ Les fonctionnalités suivantes sont accessibles via un compte :
 
 - l'écriture sur le forum ;
 - le vote pour les applications du catalogue (sur `apps.yunohost.org`) ;
-- la réservation et la gestion de noms de domaines dynamiques fournit par le projet YunoHost (`nohost.me`, `noho.st` et `ynh.fr`).
+- la réservation et la gestion de noms de domaines dynamiques fournis par le projet YunoHost (`nohost.me`, `noho.st` et `ynh.fr`).
 
 Le compte sur le forum et le compte gérant votre nom de domaine peuvent être résiliés grâce aux identifiants associés.
 
@@ -93,7 +93,7 @@ Le compte sur le forum et le compte gérant votre nom de domaine peuvent être r
 
 ### Conditions financières
 
-**L’ensemble des services est fournie gratuitement. N’hésitez pas à soutenir le projet YunoHost en faisant un don.**
+**L’ensemble des services est fourni gratuitement. N’hésitez pas à soutenir le projet YunoHost en faisant un don.**
 
 ### Intervention en cas de panne
 
@@ -105,7 +105,7 @@ En cas d’incapacité à résoudre un problème technique, le projet YunoHost p
 
 ### Devenir des services
 
-Le projet YunoHost ne garanti pas que les services continueront à fonctionner éternellement, et peut choisir d’arrêter des services si le projet estime ne plus être en mesure de fournir lesdits services.
+Le projet YunoHost ne garantit pas que les services continueront à fonctionner éternellement, et peut choisir d’arrêter des services si le projet estime ne plus être en mesure de fournir lesdits services.
 
 Si le collectif qui anime le projet YunoHost en a la possibilité, il fera de son mieux pour laisser un délai suffisant pour permettre à tout le monde de migrer ou de s'adapter sereinement.
 
